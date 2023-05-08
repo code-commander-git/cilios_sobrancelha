@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cilios-sobrancelha/static/css/main.62f0bb20.css",
+    "main.js": "/cilios-sobrancelha/static/js/main.81946b65.js",
+    "static/js/787.db974330.chunk.js": "/cilios-sobrancelha/static/js/787.db974330.chunk.js",
+    "static/media/background.jpg": "/cilios-sobrancelha/static/media/background.04edf7bb2462f171a96c.jpg",
+    "static/media/whatsapp.png": "/cilios-sobrancelha/static/media/whatsapp.29a8e4bf94e92b005237.png",
+    "static/media/instagram.png": "/cilios-sobrancelha/static/media/instagram.7040ae567f196e27572b.png",
+    "static/media/logo.svg": "/cilios-sobrancelha/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cilios-sobrancelha/index.html",
+    "main.62f0bb20.css.map": "/cilios-sobrancelha/static/css/main.62f0bb20.css.map",
+    "main.81946b65.js.map": "/cilios-sobrancelha/static/js/main.81946b65.js.map",
+    "787.db974330.chunk.js.map": "/cilios-sobrancelha/static/js/787.db974330.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f0bb20.css",
+    "static/js/main.81946b65.js"
+  ]
+}
